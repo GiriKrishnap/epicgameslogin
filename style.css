@@ -1,0 +1,115 @@
+body{
+    background-color:#121212;
+}
+.loginbox{
+    background:#202020;
+    width: 465px;
+    height: 710px;
+    margin: auto;
+    margin-top: 32px;
+    margin-bottom: 32px;
+
+}
+.logo-png{
+    height: 50px;
+    margin-left: 180px;
+    margin-top: 50px;
+    
+}
+.signintext{
+    margin-left: 74px;
+    font-size: 1.1rem;
+    font-family: Brutal,sans-serif;
+    font-weight: 500;
+    line-height: 1.5625rem;
+    letter-spacing: 0.5px;
+    color: white;
+}
+.typebox{
+    border: solid 0.1px;
+    border-color: white;
+    border-radius: 5px;
+    box-shadow: none;
+    margin-left: 54px;
+    height: 60px;
+    width: 335px;
+    padding-left: 20px;
+    color: #9c9a9a;
+    background:transparent;
+    
+}
+.password{
+    margin-top: 30px;
+    border: solid 0.1px;
+    border-color: white;
+    border-radius: 5px;
+    box-shadow: none;
+    margin-left: 54px;
+    height: 60px;
+    width: 335px;
+    padding-left: 20px;
+    color: #9c9a9a;
+    background:transparent;
+
+}
+.checkbox{
+    margin-top:24px;
+    margin-left: 60px;
+    width: 20px;
+    height: 20px;
+     
+}
+.remember{
+    font-family: Brutal, sans-serif;
+    margin-left: 90px;
+    margin-top: -5%;
+    color: #9c9a9a;
+}
+.forgot{
+    font-family: Brutal, sans-serif;
+    margin-left: 80px;
+    color: white;
+     font-size: 0.875rem;
+    font-family: Brutal, sans-serif;
+    font-weight: 400;
+    line-height: 1.25rem;
+    letter-spacing: 0.1px;
+}
+.login{
+    margin-left: 58px;
+    height: 59px;
+    width: 350px;
+    color: #ffffffb0;
+    background-color:#114A82;
+    border: solid 0px;
+    font-size: 11px;
+    font-family:sans-serif;
+    border-radius: 3px;
+}
+.policy{
+    margin-left: 190px;
+    font-size: 0.875rem;
+    font-family: Brutal, sans-serif;
+    font-weight: 400;
+    line-height: 1.25rem;
+    letter-spacing: 0.1px;
+    color: white;
+}
+.newacc{
+    margin-left: 95px;
+    font-size: 0.875rem;
+    font-family: Brutal, sans-serif;
+    font-weight: 400;
+    line-height: 1.25rem;
+    letter-spacing: 0.1px;
+    color: rgb(165, 165, 165);
+}
+.last{
+    color: #9c9a9a;
+    margin-left: 155px;
+    font-size: 0.875rem;
+    font-family: Brutal, sans-serif;
+    font-weight: 400;
+    line-height: 1.25rem;
+    letter-spacing: 0.1px;
+}
